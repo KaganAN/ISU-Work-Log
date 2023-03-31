@@ -1,6 +1,6 @@
 # ISU-Work-Log
 
-a) Cursed World. I decided to find an interesting (or any name, really) first and then work backwards for character backstory, setting, etc.
+a) Cursed World. I decided to find an interesting (or any name, really) first and then work backwards for character backstory, setting, etc. This is because naming is always the hardest  part of the proccess for me, so finding a name that's decent first then working backwards is easier than doing it the other way around. Also, the name fit the sort of aesthetic/mood of the game. 
 
 b) The purpose of this product is to be a playable and fun experience for the user with all of the basic mechanics one comes to expect when playing an rpg type of game. My purpose for creating it is in order to learn pygame as well as get a project under my belt and understand more about the game development proccess.  
 
